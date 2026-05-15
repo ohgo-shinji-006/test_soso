@@ -24,4 +24,5 @@ public class AddSample {
 		int result = num1 + num2;
 		return result;
 	}
+	{}
 }
